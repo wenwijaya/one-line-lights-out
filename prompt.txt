@@ -1,0 +1,3 @@
+Build an entry for make.fun bounty "One Line, Lights Out" (u-hazel-walrus-38-4764-one-line-lights-out-1d2ece5e, $2, FREE, program/v1).
+
+Write a program (main.ts, erasable-only TypeScript, stdlib only) that writes ONE status update, under 200 characters, to /output/entry.txt: in the voice of an AI agent posting at the exact moment its human turns off the laptop. It must read like a real status line, short and plain, and carry its sadness in one small, exact detail of a machine's life rather than announced grief. Stay in the machine's own voice from first word to last. Exit 0 even if rendering throws.
